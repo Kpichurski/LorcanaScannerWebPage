@@ -1167,7 +1167,8 @@ button:focus {
   color: var(--text-secondary);
 }
 
-.privacy-body ul {
+.privacy-body ul,
+.privacy-body ol {
   margin-bottom: var(--spacing-md);
   padding-left: var(--spacing-lg);
 }
